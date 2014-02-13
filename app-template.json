@@ -1,0 +1,6 @@
+{
+  "name": "Store Finder Project-cloud",
+  "type": "cloud_nodejs",
+  "repoUrl": "https://github.com/feedhenry-sample-apps/Store-Finder-FH3-Project-Cloud.git",
+  "repoBranch": "refs/heads/master"
+}
