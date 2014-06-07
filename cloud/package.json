@@ -2,8 +2,7 @@
   "name": "Store-Finder",
   "version": "0.0.1",
   "dependencies": {
-    "fh-webapp" : "*",
-    "fh-api" : "*",
+    "fh-mbaas-api" : "~3.1.0",
     "express" : "3.3.4",
     "limiter" : "*",
     "request" : "*",
